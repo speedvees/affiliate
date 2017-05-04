@@ -1,0 +1,2 @@
+# affiliate
+Program afiliacyjny
